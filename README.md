@@ -6,17 +6,27 @@ Each apple eaten increases the player's score by 10 points. The goal is to eat a
 
 User Manual
 3.1 Main Menu
+
+
   ![image](https://github.com/piotrekskt/C-Snake-game-/assets/154207023/20589303-e1ef-4e06-99c1-3928841683c7)
+
+
 
   The main menu includes the game logo, instructions on how to start the game, and a leaderboard showing scores achieved during gameplay. 
   Scores will appear after the first game where the player scores more than 0 points. 
   To assign a player name to the obtained score, input it when the following screen appears:
+
+  
   ![image](https://github.com/piotrekskt/C-Snake-game-/assets/154207023/0031f261-37b5-4c79-90e6-3584e9a1a9e0)
+
 
   After entering the name, we return to the main menu, where a new game can be started.
 
 3.2 Gameplay
+
+
 ![image](https://github.com/piotrekskt/C-Snake-game-/assets/154207023/cfccb82f-0af7-423d-aec7-9581bd207766)
+
 
   In the game, individual characters represent:
   • "O" - player's head, which constantly moves, with the player controlling its direction.
