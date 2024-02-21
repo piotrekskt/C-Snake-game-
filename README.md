@@ -1,4 +1,4 @@
-Project Description
+
 The game features a snake constantly moving around the board. 
 The player controls the direction of the snake's "head," which must try to eat randomly appearing apples. 
 Eating an apple increases the snake's length. The game ends if the player crashes into the edge of the board or into itself. 
